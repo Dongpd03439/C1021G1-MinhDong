@@ -1,0 +1,8 @@
+begin
+input toan = a 
+	ly = b 
+	hoa = c 
+diemtrungbinh = ( a + b + c  ) /3  
+Display diemturngbinh 
+end
+	

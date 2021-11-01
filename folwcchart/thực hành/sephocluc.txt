@@ -1,0 +1,29 @@
+Begin
+ input diem =x , loai = y
+ x =100 
+ 
+ //truong hop 1 
+if x < 35 
+display " y = loai E "
+ //truong hop 2
+else if
+	35 < x =< 45 
+display  " y = loai D "
+//truong hop 3  
+else if 
+	45 < x =< 60
+	display " y = loai C "
+//truong hop 4
+else if 
+	60 < x =< 75
+	display " y = loai B " 
+//truong hop 5
+
+  else if 75 < x <= 100
+  display " y = loai A " 
+  
+ end if 
+ 
+ End
+
+  

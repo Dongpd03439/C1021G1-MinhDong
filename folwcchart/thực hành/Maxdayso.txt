@@ -1,0 +1,22 @@
+begin
+input N, a1,....aN
+
+max = a1 
+i = 2
+ if i > N
+display "a1 lon nhat "
+else 
+  if  ai > max 
+display Max = ai 
+else 
+  display "i = i + 1 thi gia tri i > N , a1 + 1 lon nhat "
+ End if
+ End if
+ 
+End  
+
+
+
+
+
+ 
