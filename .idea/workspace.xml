@@ -20,7 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5596e405-7376-4450-95f5-da0f9d16c1e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7_html/bai_tap_html/chuyendoitiente_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss4_html/thuc_hanh/CvMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_html/thuc_hanh/CvMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_html/bai_tap/baitap2_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_html/bai_tap/baitap2_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_html/bai_tap/taoform_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_html/bai_tap/taoform_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_html/bai_tap_html/Bienkieudulieutoantu_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/bai_tap_html/Bienkieudulieutoantu_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_html/bai_tap_html/baita2_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/bai_tap_html/baita2_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_html/bai_tap_html/dientichhinhtron_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/bai_tap_html/dientichhinhtron_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/sudungtoan_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/sudungtoan_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/sudungtoantu.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/sudungtoantu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/khaibaibien_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/khaibaibien_html.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -50,6 +65,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ss7_html/bai_tap_html/javascript.itme" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Codegym\Module01\ss7_html\bai_tap_html\javascript.itme" />
+      <recent name="C:\Codegym\Module01\ss7_html\thuc_hanh_html\javascript.me" />
+      <recent name="C:\Codegym\Module01\ss7_html\thuc_hanh_html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Codegym\Module01\ss4_html\thuc_hanh" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -65,6 +91,10 @@
       <workItem from="1635388733748" duration="3093000" />
       <workItem from="1635475251908" duration="1074000" />
       <workItem from="1635753217225" duration="314000" />
+      <workItem from="1635817212770" duration="10634000" />
+      <workItem from="1635835201711" duration="19268000" />
+      <workItem from="1635910250430" duration="13852000" />
+      <workItem from="1635991568052" duration="13715000" />
     </task>
     <servers />
   </component>
@@ -84,13 +114,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1635999351169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1635999351169" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1635475385724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1635475385724" />
-    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1635475377395">
+    <state x="876" y="232" key="run.anything.popup" timestamp="1636010363407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1635475377395" />
+    <state x="876" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636010363407" />
+    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1636001540200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636001540200" />
   </component>
 </project>
