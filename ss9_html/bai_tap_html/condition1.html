@@ -1,0 +1,198 @@
+//Nhiệm vụ tối nay về nhà
+// Làm bài tập 3,4 hoàn thành sớm.
+//++ coi bài ngày mai
+//https://www.youtube.com/watch?v=5mRzEbsdNfM&t=581s // chuyển đôi tiền tệ
+//https://www.youtube.com/watch?v=qe9dUQCqGM8
+//ứng dụng máy tính
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài1</title>
+</head>
+<body>
+<script>
+    let a = parseInt(prompt("Nhap A"))
+    let b = parseInt(prompt("Nhap B"))
+    let c = (a%b == 0)
+    if(c){
+        alert("a chia het cho b")
+    }else{
+        alert("a không chia het cho b")
+    }
+</script>
+</body>
+</html>
+
+BÀI 2
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Bài 2</title>
+</head>
+<body>
+<script>
+    let a =parseInt (prompt("Nhap tuoi cua ban"))
+    if(a<15){
+        alert("Ban chưa du tuoi")
+    }else{
+        if(a>15){
+            alert("Ban da qua tuoi hoc lop 10????")
+        }else{
+            alert("Ban da du tuoi hoc lop 10")
+        }
+    }
+</script>
+</body>
+</html>
+
+BÀI 3
+
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Bài 3</title>
+</head>
+
+<body>
+<script>
+    let a = prompt("Nhap so a:")
+    if (a > 0) {
+        alert("So duong")
+    } else {
+        if (a == 0) {
+            alert("So 0")
+        } else
+            alert("So am")
+    }
+</script>
+</body>
+
+</html>
+
+BÀI 4
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 4</title>
+</head>
+
+<body>
+<script>
+    let a = parseInt(prompt("Nhap so thu nhat :"))
+    let b = parseInt(prompt("Nhap so thu hai :"))
+    let c = parseInt(prompt("Nhap so thu ba :"))
+    if (a > b && a > c) {
+        alert("So thu nhat lon nhat ")
+    } else if (b > a && b > c) {
+        alert("So thu hai lon nhat")
+    } else {
+        alert("So thu ba  lon nhat")
+    }
+</script>
+</body>
+
+</html>
+
+BÀI 5
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Bài 5</title>
+</head>
+<body>
+<script>
+    let dailyTest =  parseInt(prompt("Nhap diem kiem tra:"))
+    let midTest =  parseInt(prompt("Nhap diem kiem tra giua ki :"))
+    let finalTest =  parseInt(prompt("Nhap diem kiem tra cuoi ki  :"))
+    mbi = (dailyTest + midTest*2 + finalTest*3)/(6)
+    if(mbi >=8.5 && mbi <=10){
+        alert("Hoc sinh gioi")
+    }else if(mbi >=6.5 && mbi < 8.5){
+        alert("Khá")
+    }else if(mbi >= 5 && mbi < 6.5){
+        alert("Trung Bình")
+    }else(
+        alert("Yeu")
+    )
+    console.log (mbi)
+</script>
+</body>
+</html>
+
+BÀI 6
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 6</title>
+</head>
+<body>
+<script>
+    let Sanpham = parseInt(prompt("Nhap so san pham"))
+    let Hoahong;
+    if( Sanpham <= 10 && Sanpham > 0){
+        Hoahong = Sanpham*20000;
+        alert("So tien nhan duoc: " + Hoahong +" VNÐ")
+    }else if(Sanpham>20 && Sanpham <= 30){
+        Hoahong = Sanpham*30000
+        alert("So tien hoa hong nhan duoc: " + Hoahong +" VNÐ")
+    }else{
+        Hoahong = Sanpham*50000
+        alert("So tien hoa hong nhan duoc la: " + Hoahong +" VNÐ")
+    }
+</script>
+</body>
+</html>
+
+//BÀI 7
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Bài 7</title>
+</head>
+<body>
+<script>
+    let s = parseInt(prompt("Nhap so phut:"))
+    const Phithuebao= 25000
+    let a = 200+150;
+    let b = 400+50;
+    let d='Giacuoc';
+    let e='tong';
+    if(s>200){
+        d = (s-200)*a*b*600;
+        e = 0.01*d + 25000;
+        alert(e +"VNÐ");
+    }
+    else if(s>50){
+        d =(s-50)*b*600;
+        e=0.01*d+25000;
+        alert(e +"VNÐ");
+    }
+    else{
+        d=s*60;
+        e=0.01*d+25000;
+        alert(e +"VNÐ");
+    }
+</script>
+</body>
+</html>
+
