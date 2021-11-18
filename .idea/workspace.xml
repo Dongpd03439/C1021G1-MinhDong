@@ -20,21 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5596e405-7376-4450-95f5-da0f9d16c1e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss7_html/bai_tap_html/chuyendoitiente_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12.html/bai_tap.html/luyentap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12.html/bai_tap.html/luyentap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12.html/baitapungdung.html/quanlysanpham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12.html/thuc_hanh.html/meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12.html/thuc_hanh.html/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_html/thuc_hanh/CvMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_html/thuc_hanh/CvMe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_html/bai_tap/baitap2_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_html/bai_tap/baitap2_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_html/bai_tap/taoform_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_html/bai_tap/taoform_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_html/bai_tap_html/Bienkieudulieutoantu_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/bai_tap_html/Bienkieudulieutoantu_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_html/bai_tap_html/baita2_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/bai_tap_html/baita2_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_html/bai_tap_html/dientichhinhtron_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/bai_tap_html/dientichhinhtron_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/sudungtoan_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/sudungtoan_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/sudungtoantu.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/javascript.me/sudungtoantu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/khaibaibien_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_html/thuc_hanh_html/khaibaibien_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8_html/bai_tap/abc.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8_html/bai_tap/abc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9_html/bai_tap_html/condition1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9_html/bai_tap_html/condition1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +38,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="XHTML File" />
+        <option value="HTML4 File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -68,13 +63,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ss7_html/bai_tap_html/javascript.itme" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Codegym\Module01\ss4_html\thuc_hanh" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Codegym\Module01\ss7_html\bai_tap_html\javascript.itme" />
       <recent name="C:\Codegym\Module01\ss7_html\thuc_hanh_html\javascript.me" />
       <recent name="C:\Codegym\Module01\ss7_html\thuc_hanh_html" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Codegym\Module01\ss4_html\thuc_hanh" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -94,7 +89,14 @@
       <workItem from="1635817212770" duration="10634000" />
       <workItem from="1635835201711" duration="19268000" />
       <workItem from="1635910250430" duration="13852000" />
-      <workItem from="1635991568052" duration="13715000" />
+      <workItem from="1635991568052" duration="32375000" />
+      <workItem from="1636168320222" duration="671000" />
+      <workItem from="1636338689953" duration="22543000" />
+      <workItem from="1636452911281" duration="270000" />
+      <workItem from="1636529240076" duration="2148000" />
+      <workItem from="1636613345095" duration="1195000" />
+      <workItem from="1637031398355" duration="14244000" />
+      <workItem from="1637134750906" duration="3817000" />
     </task>
     <servers />
   </component>
@@ -114,6 +116,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636532652221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636532652221" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636095054456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636095054456" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1635999351169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -122,13 +132,24 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1635475385724" />
-    <state x="876" y="232" key="run.anything.popup" timestamp="1636010363407">
+    <state x="876" y="232" key="run.anything.popup" timestamp="1636430666312">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="876" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636010363407" />
-    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1636001540200">
+    <state x="876" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636430666312" />
+    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1636360220318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636001540200" />
+    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636360220318" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ss7_html/bai_tap_html/ungdungmaytinh_html.html</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
