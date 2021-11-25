@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    //lớp cha
+    class Animal{
+        constructor(name,weight, speed) {
+            this.name = name;
+            this.weight= weight;
+            this.speed =speed;
+        }
+        say(text){
+            console.log("chưa biết kêu gì cả");
+        }
+    }
+    // lớp con
+    class Rat extends Animal{
+        constructor(status){
+            super(name,weight, speed);
+            this.status =status;
+        }
+        say(text) {
+            console.log("chít chít: " + text);
+        }
+    }
+    class Cat extends Animal{
+        constructor(name,weight, speed) {
+            super(name,weight, speed);
+        }
+        say(text) {
+            console.log("meo meo: " + text);
+        }
+        catchMouse(chuot){
+            if (this.speed>chuot.speed){
+                this.say("bắt được rồi")
+                this.eat(chuot);
+            }else {
+                chuot.say("Đố mi bắt được đó")
+            }
+        }
+        eat(chuot){
+            if (chuot.status){
+                this.weight +=chuot.weight;
+            }else {
+                this.say("Chết rôồ không thèm aen")
+            }
+        }
+    }
+
+    // Viết chương trình
+    let tom = new Cat("Tom",10,10);
+    let jerry = new Rat("Jerry",2,5,true);
+    let jerry2 = new Rat("Jerry2",2,10,true);
+    let jerry3 = new Rat("Jerry2",2,5,false);
+    tom.catchMouse(jerry);
+    tom.catchMouse(jerry2);
+    tom.catchMouse(jerry3);
+    console.log("trong lượng của mèo "+ tom.weight);
+
+
+    // Thi thực hành
+    // đọc kỹ đề
+
+</script>
+</body>
+</html>

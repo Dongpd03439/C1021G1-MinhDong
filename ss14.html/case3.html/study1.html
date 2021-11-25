@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Prefix sums </title>
+</head>
+<body>
+<script>
+    let a = [] ;
+    let b = [] ;
+    let sum = 0
+    let enter = parseInt(prompt("Nhập vào độ dài của mảng a")) ;
+    for (let i = 0 ; i < enter ; i++) {
+        a.push(parseInt(prompt("Nhập vào số nguyên"))) ;
+    }
+    for ( let i = 0 ; i < a.length ; i++) {
+        sum = sum + a[i] ;
+        b[i] = sum ;
+    }
+    alert("Mảng a là : " + a + "\n" + " Prefix Sum của mảng là " + sum)
+
+</script>
+
+</body>
+</html>

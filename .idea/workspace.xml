@@ -20,14 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5596e405-7376-4450-95f5-da0f9d16c1e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss12.html/bai_tap.html/luyentap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss12.html/bai_tap.html/luyentap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss12.html/baitapungdung.html/quanlysanpham.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss12.html/thuc_hanh.html/meters.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss12.html/thuc_hanh.html/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12.html/baitapungdung.html/testquanlyungdung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/Hinhchunhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/adamandeva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/catandrat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/denpin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/dienthoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html/thuc_hanh.html/Obj2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html/thuc_hanh.html/Object.heml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html/thuc_hanh.html/canvans.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14.html/case2.html/study_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14.html/case2.html/study_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14.html/case3.html/study1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14.html/case3.html/study2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_html/bai_tap/abc.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8_html/bai_tap/abc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9_html/bai_tap_html/condition1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9_html/bai_tap_html/condition1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12.html/bai_tap.html/luyentap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss12.html/bai_tap.html/luyentap2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +103,8 @@
       <workItem from="1636529240076" duration="2148000" />
       <workItem from="1636613345095" duration="1195000" />
       <workItem from="1637031398355" duration="14244000" />
-      <workItem from="1637134750906" duration="3817000" />
+      <workItem from="1637134750906" duration="40568000" />
+      <workItem from="1637372154984" duration="24725000" />
     </task>
     <servers />
   </component>
@@ -120,6 +128,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636532652221" />
+    <state x="1239" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1637378859090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1239" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637378859090" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636095054456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -132,14 +144,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1635475385724" />
-    <state x="876" y="232" key="run.anything.popup" timestamp="1636430666312">
+    <state x="876" y="232" key="run.anything.popup" timestamp="1637637671621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="876" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636430666312" />
-    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1636360220318">
+    <state x="876" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637637671621" />
+    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1637287746632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636360220318" />
+    <state x="725" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637287746632" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

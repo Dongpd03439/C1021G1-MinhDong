@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Viết một chương trình để nhập lương nhân viên, tính thuế thu nhập và lương ròng
+        (số tiền lương thực sự mà nhân viên đó nhận được). Với các thông số giả sử như sau
+        (không theo luật lương, chỉ là con số giả sử để dễ tính toán):</title>
+</head>
+<body>
+<script>
+    let salary = parseFloat(prompt("Nhập vào số lương tháng này ")) ;
+    let tax = 0 ; // Số thuế
+    let netSalary ; // Tổng số lương thực nhận
+    if ( salary >= 15000000){
+        tax = 20 ;
+    } else if ( salary >= 7000000){
+        tax = 10 ;
+    } else {
+        tax = 5 ;
+    }
+    netSalary = salary - salary * tax / 100 ;
+    alert("Tax : " + tax + "%\n" + "Net Salary : " + netSalary) ;
+</script>
+
+</body>
+</html>
