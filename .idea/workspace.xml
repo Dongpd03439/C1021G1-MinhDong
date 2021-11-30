@@ -20,21 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5596e405-7376-4450-95f5-da0f9d16c1e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss12.html/baitapungdung.html/testquanlyungdung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/Hinhchunhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/adamandeva.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/catandrat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/denpin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13.html/bai_tap.html/dienthoai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13.html/thuc_hanh.html/Obj2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13.html/thuc_hanh.html/Object.heml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13.html/thuc_hanh.html/canvans.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss14.html/case2.html/study_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss14.html/case2.html/study_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss14.html/case3.html/study1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss14.html/case3.html/study2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thimodule.html/Bai_tap.html/bai_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thimodule.html/Bai_tap.html/bai_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thimodule.html/Bai_tap.html/bai_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thimodule.html/Bai_tap.html/bai_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss12.html/bai_tap.html/luyentap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss12.html/bai_tap.html/luyentap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss14.html/case3.html/study2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14.html/case3.html/study2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss14.html/case3.html/study3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14.html/case3.html/study3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss14.html/case_study1.html/hcnrong_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14.html/case_study1.html/hcnrong_html.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +97,8 @@
       <workItem from="1636613345095" duration="1195000" />
       <workItem from="1637031398355" duration="14244000" />
       <workItem from="1637134750906" duration="40568000" />
-      <workItem from="1637372154984" duration="24725000" />
+      <workItem from="1637372154984" duration="35117000" />
+      <workItem from="1638149721995" duration="12356000" />
     </task>
     <servers />
   </component>
@@ -144,10 +138,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1635475385724" />
-    <state x="876" y="232" key="run.anything.popup" timestamp="1637637671621">
+    <state x="937" y="101" width="778" height="832" key="dock-window-1" timestamp="1638155893450">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="876" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637637671621" />
+    <state x="937" y="101" width="778" height="832" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1638155893450" />
+    <state x="937" y="101" width="778" height="832" key="dock-window-2" timestamp="1638155893450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="937" y="101" width="778" height="832" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1638155893450" />
+    <state x="876" y="232" key="run.anything.popup" timestamp="1638160331276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="876" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1638160331276" />
     <state x="725" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1637287746632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

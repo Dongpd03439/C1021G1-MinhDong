@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Viết chương trình cho phép nhập tháng, năm. Tính xem tháng/ năm đó có bao nhiêu ngày
+        Yêu cầu kiểm tra định dạng của tháng năm nhập vào MM/yyyy
+        *Yêu cầu nâng cao: Đối với tháng 2 cần kiểm tra xem có phải là năm nhuận hay không. Nếu năm Nhuận thì tháng 2 sẽ có 29 ngày, ngược lại thì là 28 ngày
+    </title>
+</head>
+<body>
+<form>
+    <h2><b>Ứng dụng tính số ngày</b></h2>
+    <input type="text" id="NhapSoThang" placeholder="Nhap thang">
+    <input type="text" id="NhapNam" placeholder="Nhap nam">
+    <button type="button" onClick="showMessage()">Total</button>
+    <p id="result"></p>
+</form>
+    <script>
+            function showMessage() {
+            let month = parseInt(document.getElementById("NhapSoThang").value);
+            let years = parseInt(document.getElementById("NhapNam").value);
+            switch (month) {
+            case 1:
+            case 3:
+            case 5:
+            case 7:
+            case 8:
+            case 10:
+            case 12:
+            document.getElementById("result").innerHTML = 'Thang ' + month + ' co 31 ngay';
+            break;
+            case 2:
+            if (years % 100 === 0) {
+            if (years % 400 === 0) {
+            document.getElementById("result").innerHTML = "Thang " + month + " co 29 ngay.";
+        } else {
+            document.getElementById("result").innerHTML = "Thang " + month + " co 28 ngay.";
+        }
+        } else if (years % 4 === 0) {
+            document.getElementById("result").innerHTML = "Thang " + month + " co 29 ngay.";
+        } else {
+            document.getElementById("result").innerHTML = "Thang " + month + " co 28 ngay.";
+        }
+            break;
+            case 4:
+            case 6:
+            case 9:
+            case 11:
+            document.getElementById("result").innerHTML = "Thang " + month + ' có 30 ngày';
+            break;
+            default:
+            document.getElementById("result").innerText = 'Nhap sai thang, nhap lai.';
+        }
+        }
+
+
+    </script>
+</body>
+</html>
