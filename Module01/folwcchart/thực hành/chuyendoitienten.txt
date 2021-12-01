@@ -1,6 +1,0 @@
-begin
-input dola = a
-vietnamdong= b
-b = a*23000
-Display b
-end
