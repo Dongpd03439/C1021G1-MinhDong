@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0cd322-134e-48ba-88a8-205746c45c5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/bai_tap/ShowIntergers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/bai_tap/ShowIntergersOneH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/bai_tap/Showpicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/thuc_hanh/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/thuc_hanh/Bignumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/thuc_hanh/CheckIntergers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/thuc_hanh/Desginmenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/AddElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/FindTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/RemoveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/CountStudentsPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/FindSmallValueArrayInMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/FindValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/FindValueBig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/Temperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638416284162</updated>
       <workItem from="1638416286135" duration="13312000" />
-      <workItem from="1638500794314" duration="2867000" />
+      <workItem from="1638500794314" duration="5920000" />
     </task>
     <servers />
   </component>
