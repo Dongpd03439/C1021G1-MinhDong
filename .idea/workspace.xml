@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e0cd322-134e-48ba-88a8-205746c45c5a" name="Changes" comment="" />
+    <list default="true" id="1e0cd322-134e-48ba-88a8-205746c45c5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/bai_tap/ShowIntergers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/bai_tap/ShowIntergersOneH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/bai_tap/Showpicture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/thuc_hanh/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/thuc_hanh/Bignumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/thuc_hanh/CheckIntergers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss2_java_vong_lap/thuc_hanh/Desginmenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +20,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="21iG1dx1jMWYq4Wv1Szi65cSu5o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,15 +39,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.NumberConvertBook">
-    <configuration name="DateFrist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss1_java.thuc_hanh.DateFrist" />
+  <component name="RunManager" selected="Application.ShowIntergersOneH">
+    <configuration name="Bignumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss2_java_vong_lap.thuc_hanh.Bignumber" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss1_java.thuc_hanh.*" />
+          <option name="PATTERN" value="Ss2_java_vong_lap.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -38,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss1_java.thuc_hanh.DateTime" />
+    <configuration name="Desginmenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss2_java_vong_lap.thuc_hanh.Desginmenu" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss1_java.thuc_hanh.*" />
+          <option name="PATTERN" value="Ss2_java_vong_lap.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Marth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss1_java.thuc_hanh.Marth" />
+    <configuration name="ShowIntergers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss2_java_vong_lap.bai_tap.ShowIntergers" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss1_java.thuc_hanh.*" />
+          <option name="PATTERN" value="Ss2_java_vong_lap.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberConvertBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss1_java.bai_tap.NumberConvertBook" />
+    <configuration name="ShowIntergersOneH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss2_java_vong_lap.bai_tap.ShowIntergersOneH" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss1_java.bai_tap.*" />
+          <option name="PATTERN" value="Ss2_java_vong_lap.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReactangleProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss1_java.thuc_hanh.ReactangleProgram" />
+    <configuration name="Showpicture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss2_java_vong_lap.bai_tap.Showpicture" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss1_java.thuc_hanh.*" />
+          <option name="PATTERN" value="Ss2_java_vong_lap.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberConvertBook" />
-        <item itemvalue="Application.DateFrist" />
-        <item itemvalue="Application.DateTime" />
-        <item itemvalue="Application.Marth" />
-        <item itemvalue="Application.ReactangleProgram" />
+        <item itemvalue="Application.ShowIntergersOneH" />
+        <item itemvalue="Application.ShowIntergers" />
+        <item itemvalue="Application.Desginmenu" />
+        <item itemvalue="Application.Showpicture" />
+        <item itemvalue="Application.Bignumber" />
       </list>
     </recent_temporary>
   </component>
@@ -108,11 +127,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638416284162</updated>
-      <workItem from="1638416286135" duration="3641000" />
+      <workItem from="1638416286135" duration="13312000" />
+      <workItem from="1638500794314" duration="2867000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
