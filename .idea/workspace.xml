@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0cd322-134e-48ba-88a8-205746c45c5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/AddElementArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/FindTwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/MergeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/RemoveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/CountStudentsPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/FindSmallValueArrayInMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/FindValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/FindValueBig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/thuc_hanh/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss3_java_array_method/bai_tap/StringCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +36,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.ShowIntergersOneH">
-    <configuration name="Bignumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss2_java_vong_lap.thuc_hanh.Bignumber" />
+  <component name="RunManager" selected="Application.MyClass">
+    <configuration name="Desginmenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss2_java_vong_lap.thuc_hanh.Desginmenu" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
@@ -59,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desginmenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss2_java_vong_lap.thuc_hanh.Desginmenu" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss3_java_array_method.thuc_hanh.MyClass" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss2_java_vong_lap.thuc_hanh.*" />
+          <option name="PATTERN" value="Ss3_java_array_method.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.ShowIntergersOneH" />
         <item itemvalue="Application.ShowIntergers" />
         <item itemvalue="Application.Desginmenu" />
         <item itemvalue="Application.Showpicture" />
-        <item itemvalue="Application.Bignumber" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +121,8 @@
       <option name="presentableId" value="Default" />
       <updated>1638416284162</updated>
       <workItem from="1638416286135" duration="13312000" />
-      <workItem from="1638500794314" duration="5920000" />
+      <workItem from="1638500794314" duration="9413000" />
+      <workItem from="1638753469844" duration="305000" />
     </task>
     <servers />
   </component>
