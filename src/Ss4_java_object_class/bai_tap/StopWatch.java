@@ -36,12 +36,13 @@ public class StopWatch {
         StopWatch sc = new StopWatch();
         sc.start();
         System.out.println(sc.getStartTime());
-        for (int i = 0 ; i < 1000 ; i++){
+        for (int i = 0 ; i < 1000; i++){
             sc.stop();
             System.out.println(sc.getEndTime());
 
         }
         System.out.println(sc.getElapsedTime());
+
 
 
     }

@@ -1,4 +1,4 @@
-package Ss4_java_object_class;
+package Ss4_java_object_class.bai_tap;
 
 public class Fan {
     private final int SLOW = 1;
