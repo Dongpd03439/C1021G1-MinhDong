@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0cd322-134e-48ba-88a8-205746c45c5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ss4_java_object_class/thuc_hanh/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/bai_tap/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/bai_tap/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/thuc_hanh/StaticProperty/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/thuc_hanh/StaticProperty/TestStaticProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/thuc_hanh/staticMethod/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/thuc_hanh/staticMethod/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss4_java_object_class/thuc_hanh/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingJava/Ss3_java_array_method/thuc_hanh/TestNhanh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ss4_java_object_class/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ss4_java_object_class/bai_tap/Fan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ss4_java_object_class/bai_tap/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ss4_java_object_class/bai_tap/StopWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ss4_java_object_class/thuc_hanh/RectangularClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingJava/Ss4_java_object_class/bai_tap/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingJava/Ss4_java_object_class/bai_tap/StopWatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingJava/Ss5_java_accessmodifier_static/bai_tap/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingJava/Ss5_java_accessmodifier_static/bai_tap/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ss4_java_object_class/thuc_hanh/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/bai_tap/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/bai_tap/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +52,7 @@
       <recent name="Ss4_java_object_class.bai_tap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StopWatch">
+  <component name="RunManager" selected="Application.Circle">
     <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ss5_java_accessmodifier_static.bai_tap.Circle" />
       <module name="CodingJava" />
@@ -139,9 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.StopWatch" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.MyClass (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -159,7 +153,8 @@
       <workItem from="1638500794314" duration="9413000" />
       <workItem from="1638753469844" duration="6063000" />
       <workItem from="1638856516113" duration="4771000" />
-      <workItem from="1638863704711" duration="835000" />
+      <workItem from="1638863704711" duration="2298000" />
+      <workItem from="1638867036303" duration="1764000" />
     </task>
     <servers />
   </component>

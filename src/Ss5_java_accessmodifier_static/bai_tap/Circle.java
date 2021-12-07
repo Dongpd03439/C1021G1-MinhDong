@@ -26,7 +26,7 @@ public class Circle {
     }
 
     public double getArea() {
-        return  this.radius*this.radius;
+        return  this.radius*this.radius*Math.PI;
     }
     public Circle(double radius, String color) {
         this.radius = radius;
