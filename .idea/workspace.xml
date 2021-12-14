@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0cd322-134e-48ba-88a8-205746c45c5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ss4_java_object_class/thuc_hanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/bai_tap/DeploymentArrayList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/bai_tap/DeploymentArrayList/TestMyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/bai_tap/DeploymentLinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/bai_tap/DeploymentLinkedList/TestMylinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/thuc_hanh/DeploymentLinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/thuc_hanh/DeploymentLinkedList/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/thuc_hanh/DeploymentList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/thuc_hanh/DeploymentList/MyListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingJava/Ss4_java_object_class/bai_tap/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingJava/Ss4_java_object_class/bai_tap/StopWatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingJava/Ss5_java_accessmodifier_static/bai_tap/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingJava/Ss5_java_accessmodifier_static/bai_tap/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ss4_java_object_class/thuc_hanh/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/bai_tap/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ss5_java_accessmodifier_static/bai_tap/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,7 @@
       <list>
         <option value="AnnotationType" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,20 +49,27 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bai_tap_lam_them.bai_2.service.impl" />
+      <recent name="Ss7_java_abstract_interface.thuc_hanh.Animal_and_Interface_edible" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bai_tap_lam_them.service" />
+      <recent name="Ss7_java_abstract_interface.bai_tap.Resizeable" />
+      <recent name="Ss7_java_abstract_interface.thuc_hanh.Comparator" />
       <recent name="Ss4_java_object_class.bai_tap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Circle">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss5_java_accessmodifier_static.bai_tap.Circle" />
+  <component name="RunManager" selected="Application.TestMyList">
+    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss7_java_abstract_interface.thuc_hanh.Comparator.CircleComparatorTest" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss5_java_accessmodifier_static.bai_tap.*" />
+          <option name="PATTERN" value="Ss7_java_abstract_interface.thuc_hanh.Comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss4_java_object_class.Main" />
+    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss6_java_inheritance.thuc_hanh.CircleTest" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss4_java_object_class.bai_tap.*" />
+          <option name="PATTERN" value="Ss6_java_inheritance.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss4_java_object_class.bai_tap.Main" />
+    <configuration name="ResizeableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss7_java_abstract_interface.bai_tap.Resizeable.ResizeableTest" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss4_java_object_class.bai_tap.*" />
+          <option name="PATTERN" value="Ss7_java_abstract_interface.bai_tap.Resizeable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss4_java_object_class.thuc_hanh.MyClass" />
+    <configuration name="TestMyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss9_java_DSA.bai_tap.DeploymentArrayList.TestMyList" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss4_java_object_class.thuc_hanh.*" />
+          <option name="PATTERN" value="Ss9_java_DSA.bai_tap.DeploymentArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,25 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss4_java_object_class.bai_tap.StopWatch" />
+    <configuration name="TestMylinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss9_java_DSA.bai_tap.DeploymentLinkedList.TestMylinkedList" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss4_java_object_class.bai_tap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss5_java_accessmodifier_static.bai_tap.Student" />
-      <module name="CodingJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ss5_java_accessmodifier_static.bai_tap.*" />
+          <option name="PATTERN" value="Ss9_java_DSA.bai_tap.DeploymentLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.MyClass (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestMyList" />
+        <item itemvalue="Application.TestMylinkedList" />
+        <item itemvalue="Application.ResizeableTest" />
+        <item itemvalue="Application.CircleComparatorTest" />
+        <item itemvalue="Application.CircleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +152,12 @@
       <workItem from="1638753469844" duration="6063000" />
       <workItem from="1638856516113" duration="4771000" />
       <workItem from="1638863704711" duration="2298000" />
-      <workItem from="1638867036303" duration="1764000" />
+      <workItem from="1638867036303" duration="3043000" />
+      <workItem from="1638945203929" duration="3941000" />
+      <workItem from="1638954678149" duration="2551000" />
+      <workItem from="1639013012397" duration="13122000" />
+      <workItem from="1639357072537" duration="10728000" />
+      <workItem from="1639468994037" duration="1423000" />
     </task>
     <servers />
   </component>
