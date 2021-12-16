@@ -2,19 +2,19 @@ package Ss9_java_DSA.bai_tap.DeploymentArrayList;
 
 import java.util.Arrays;
 
-public class MyList<E> {
+public class MyList<T> {
     private int size = 0;
     private static final int DEFAULT_CAPACITY = 8;
-    private E[] data;
+    private T[] data;
 
     public MyList() {
-        data = (E[]) new Object[DEFAULT_CAPACITY];
+        data = (T[]) new Object[DEFAULT_CAPACITY];
     }
 
     public MyList(int size) {
-        data = (E[]) new Object[size];
+        data = (T[]) new Object[size];
     }
-    public void add(E e) {
+    public void add(T e) {
         size += 1;
         ensureCapa();
         data[size - 1] = e;
@@ -27,7 +27,7 @@ public class MyList<E> {
         }
     }
 
-    public boolean add(E e, int index) {
+    public boolean add(T e, int index) {
         if (index >= 0 && index <= size) {
             size += 1;
             ensureCapa();
@@ -40,7 +40,7 @@ public class MyList<E> {
         return false;
     }
 
-    public E get(int index) {
+    public T get(int index) {
         if (index >= 0 && index < size) {
             return data[index];
         }
@@ -49,14 +49,14 @@ public class MyList<E> {
 
     @Override
     public MyList clone() {
-        MyList<E> clone = new MyList<>(data.length);
-        for (E x : data) {
+        MyList<T> clone = new MyList<>(data.length);
+        for (T x : data) {
             clone.add(x);
         }
         return clone;
     }
 
-    public E[] getData() {
+    public T[] getData() {
         return this.data;
     }
 
@@ -76,11 +76,11 @@ public class MyList<E> {
     }
 
     public void clear() {
-        data = (E[]) new Object[DEFAULT_CAPACITY];
+        data = (T[]) new Object[DEFAULT_CAPACITY];
         size = 0;
     }
 
-    public int indexOf(E e) {
+    public int indexOf(T e) {
         for (int i = 0; i < size; i++) {
             if (data[i].equals(e)) {
                 return i;
@@ -89,8 +89,8 @@ public class MyList<E> {
         return -1;
     }
 
-    public boolean contains(E e) {
-        for (E x : data) {
+    public boolean contains(T e) {
+        for (T x : data) {
             if (e.equals(x)) {
                 return true;
             }
