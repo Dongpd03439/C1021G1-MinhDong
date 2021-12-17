@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Product implements Interface,  Comparable<Product>{
 
+public class Product implements Managment,  Comparable<Product>{
     private String name;
     private int price;
 
@@ -50,7 +50,7 @@ public class Product implements Interface,  Comparable<Product>{
         name=scanner.nextLine();
         System.out.println("mời nhập giá sp");
         price=scanner.nextInt();
-        Product product = new Product(name,price);
+        Product product=new Product(name,price);
         arr.add(product);
         for( Product product1 : arr){
             System.out.println(product1);
@@ -138,5 +138,4 @@ public class Product implements Interface,  Comparable<Product>{
     public int compareTo(Product o) {
         return price-o.price;
     }
-
 }
