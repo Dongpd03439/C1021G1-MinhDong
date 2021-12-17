@@ -22,7 +22,7 @@ public class CountMap {
     }
 
     public static void main(String[] args) {
-        String str = "   Hello 2021   C1120G1    hello 2020    hello    ";
+        String str = "   Hello 2021   C1020G1    hello 2021    hello    ";
         String newString = str.toLowerCase().trim().replaceAll("\\s+", " ");
         System.out.println(newString);
         Map treeMap = findWordFrequency(newString);
