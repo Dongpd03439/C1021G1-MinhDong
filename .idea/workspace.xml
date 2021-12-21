@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0cd322-134e-48ba-88a8-205746c45c5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/bai_tap/DeploymentArrayList/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/bai_tap/DeploymentArrayList/TestMyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/bai_tap/DeploymentLinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/bai_tap/DeploymentLinkedList/TestMylinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/thuc_hanh/DeploymentLinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/thuc_hanh/DeploymentLinkedList/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/thuc_hanh/DeploymentList/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ss9_java_DSA/thuc_hanh/DeploymentList/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss14_java_Debug_handling/bai_tap/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss14_java_Debug_handling/bai_tap/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss14_java_Debug_handling/thuc_hanh/ArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss14_java_Debug_handling/thuc_hanh/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss14_java_Debug_handling/thuc_hanh/LinearEquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss15_java_test_file/bai_tap/Copy_file_text/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss15_java_test_file/bai_tap/Read_file_csv/ReadCsv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss15_java_test_file/bai_tap/Read_file_csv/countries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss15_java_test_file/thuc_hanh/Total_file_test/TotalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss15_java_test_file/thuc_hanh/Total_find_maximum_value/FindMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss15_java_test_file/thuc_hanh/Total_find_maximum_value/ReadAndWriteFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingJava/Ss9_java_DSA/bai_tap/DeploymentArrayList/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingJava/Ss9_java_DSA/bai_tap/DeploymentArrayList/MyList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,7 @@
       <list>
         <option value="AnnotationType" />
         <option value="JUnit5 Test Class" />
+        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -50,6 +55,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Ss15_java_test_file.bai_tap.Read_file_csv" />
+      <recent name="Ss11_java__java_collection_framework.bai_tap.Product_Management" />
+      <recent name="Ss11_java__java_collection_framework.thuc_hanh.Sorting_compareable_comparator" />
       <recent name="bai_tap_lam_them.bai_2.service.impl" />
       <recent name="Ss7_java_abstract_interface.thuc_hanh.Animal_and_Interface_edible" />
     </key>
@@ -57,19 +65,20 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Ss10_java_Stack_Queue.bai_tap.DataOrganization" />
       <recent name="bai_tap_lam_them.service" />
       <recent name="Ss7_java_abstract_interface.bai_tap.Resizeable" />
       <recent name="Ss7_java_abstract_interface.thuc_hanh.Comparator" />
       <recent name="Ss4_java_object_class.bai_tap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestMyList">
-    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss7_java_abstract_interface.thuc_hanh.Comparator.CircleComparatorTest" />
+  <component name="RunManager" selected="Application.ReadCsv">
+    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss14_java_Debug_handling.thuc_hanh.CalculationExample" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss7_java_abstract_interface.thuc_hanh.Comparator.*" />
+          <option name="PATTERN" value="Ss14_java_Debug_handling.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss6_java_inheritance.thuc_hanh.CircleTest" />
+    <configuration name="CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss15_java_test_file.bai_tap.Copy_file_text.CopyFile" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss6_java_inheritance.thuc_hanh.*" />
+          <option name="PATTERN" value="Ss15_java_test_file.bai_tap.Copy_file_text.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResizeableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss7_java_abstract_interface.bai_tap.Resizeable.ResizeableTest" />
+    <configuration name="ReacCsv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss15_java_test_file.bai_tap.Read_file.csv.ReacCsv" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss7_java_abstract_interface.bai_tap.Resizeable.*" />
+          <option name="PATTERN" value="Ss15_java_test_file.bai_tap.Read_file.csv.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss9_java_DSA.bai_tap.DeploymentArrayList.TestMyList" />
+    <configuration name="ReadCsv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss15_java_test_file.bai_tap.Read_file_csv.ReadCsv" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss9_java_DSA.bai_tap.DeploymentArrayList.*" />
+          <option name="PATTERN" value="Ss15_java_test_file.bai_tap.Read_file_csv.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMylinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ss9_java_DSA.bai_tap.DeploymentLinkedList.TestMylinkedList" />
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss14_java_Debug_handling.bai_tap.Triangle" />
       <module name="CodingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ss9_java_DSA.bai_tap.DeploymentLinkedList.*" />
+          <option name="PATTERN" value="Ss14_java_Debug_handling.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMyList" />
-        <item itemvalue="Application.TestMylinkedList" />
-        <item itemvalue="Application.ResizeableTest" />
-        <item itemvalue="Application.CircleComparatorTest" />
-        <item itemvalue="Application.CircleTest" />
+        <item itemvalue="Application.ReadCsv" />
+        <item itemvalue="Application.ReacCsv" />
+        <item itemvalue="Application.CopyFile" />
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.CalculationExample" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +166,11 @@
       <workItem from="1638954678149" duration="2551000" />
       <workItem from="1639013012397" duration="13122000" />
       <workItem from="1639357072537" duration="10728000" />
-      <workItem from="1639468994037" duration="1423000" />
+      <workItem from="1639468994037" duration="13128000" />
+      <workItem from="1639640078194" duration="1770000" />
+      <workItem from="1639644510172" duration="5515000" />
+      <workItem from="1639726742082" duration="1540000" />
+      <workItem from="1639969710362" duration="10626000" />
     </task>
     <servers />
   </component>
