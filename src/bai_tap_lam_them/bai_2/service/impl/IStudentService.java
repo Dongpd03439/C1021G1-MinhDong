@@ -12,6 +12,7 @@ public class IStudentService extends Student implements StudentService, Comparab
     Scanner scanner = new Scanner(System.in);
 
     public IStudentService() {
+        super();
     }
 
     public IStudentService(int mssv, String name, String dayOfbirth, String sex, String nameOfClass, String grade) {
